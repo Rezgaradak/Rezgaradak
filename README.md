@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rezgaradak
 - 👀 I’m interested in matlab, Py codes problem 
-- 🌱 I’m currently doing EE Engineering
+- 🌱 Engineering
 - 💞️ I’m looking to collaborate on IT code
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
